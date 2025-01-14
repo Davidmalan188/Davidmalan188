@@ -17,7 +17,7 @@
 Hi there! I'm **David**, a passionate Software Engineering undergraduate with a focus on **Frontend Development**.  
 I enjoy crafting user-friendly web interfaces and learning new technologies to solve real-world problems.  
 
-- 🎓 **Student at Cardiff Metropolitan University**  
+
 - 💻 Enthusiastic about crafting beautiful and functional web interfaces  
 - 🌱 Currently honing my skills in **Frontend and Full-Stack Development** 
 - 💻 I believe in the power of **beautiful code** and **intuitive design**  
