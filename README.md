@@ -49,6 +49,12 @@ I enjoy crafting user-friendly web interfaces and learning new technologies to s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Davidmalan188&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidmalan188&theme=dark&hide_border=false" /> 
+  <br>
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davidmalan188&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
 </p>
 
 ---
